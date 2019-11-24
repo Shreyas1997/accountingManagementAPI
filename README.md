@@ -1,0 +1,2 @@
+# accountingManagementAPI
+A RESTful API.
